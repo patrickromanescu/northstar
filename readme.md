@@ -108,9 +108,9 @@ Generate downloadable reports for:
 ## Installation
 
 ```bash
-git clone https://github.com/promanescu/northstar-health.git
+git clone https://github.com/promanescu/northstar.git
 
-cd northstar-health
+cd northstar
 
 pip install -r requirements.txt
 
@@ -124,13 +124,13 @@ streamlit run app.py
 Latest release:
 
 ```text
-https://github.com/promanescu/northstar-health/releases/latest
+https://github.com/promanescu/northstar/releases/latest
 ```
 
 Direct release asset:
 
 ```text
-https://github.com/YOUR_USERNAME/northstar-health/releases/download/v1.0.0/northstar-health-v1.0.0.zip
+https://github.com/YOUR_USERNAME/northstar/releases/download/v1.0.0/northstar-health-v1.0.0.zip
 ```
 
 ---
@@ -140,12 +140,12 @@ https://github.com/YOUR_USERNAME/northstar-health/releases/download/v1.0.0/north
 Add this badge to your README or landing page:
 
 ```html
-<img src="https://img.shields.io/github/downloads/promanescu/northstar-health/total?style=for-the-badge&label=Downloads&color=22c55e" />
+<img src="https://img.shields.io/github/downloads/promanescu/northstar/total?style=for-the-badge&label=Downloads&color=22c55e" />
 ```
 
 Example:
 
-![Downloads](https://img.shields.io/github/downloads/promanescu/northstar-health/total?style=for-the-badge&label=Downloads&color=22c55e)
+![Downloads](https://img.shields.io/github/downloads/promanescu/northstar/total?style=for-the-badge&label=Downloads&color=22c55e)
 
 ---
 
