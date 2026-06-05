@@ -133,22 +133,6 @@ Direct release asset:
 https://github.com/patrickromanescu/northstar/releases/download/v1.0.0/northstar-health-v1.0.0.zip
 ```
 
----
-
-## Download Counter
-
-Add this badge to your README or landing page:
-
-```html
-<img src="https://img.shields.io/github/downloads/patrickromanescu/northstar/total?style=for-the-badge&label=Downloads&color=22c55e" />
-```
-
-Example:
-
-![Downloads](https://img.shields.io/github/downloads/patrickromanescu/northstar/total?style=for-the-badge&label=Downloads&color=22c55e)
-
----
-
 ## Technology Stack
 
 - Python
